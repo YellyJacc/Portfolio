@@ -121,7 +121,7 @@ export const projects = [
     tools: ["PHP", "PostgreSQL", "AJAX", "JavaScript", "Tailwind CSS"],
     acknowledgments: "Pitched and recognized in the Philippine Startup Challenge XI competition.",
     liveUrl: "https://nearbuy-platform.preview.local",
-    githubUrl: "https://github.com/yourusername/nearbuy-platform",
+    githubUrl: "https://github.com/RuiJy-X/nearbuy",
     evidenceType: "schema",
     evidenceSnippet: `// NearBuy Application Core Architecture\n[PSC XI] Philippine Startup Challenge XI - Top 10 Finalist\n[STATUS] Startup Application in Active Development\n[BACKEND] Multi-tenant relational schema, transaction & catalog pipeline\n[ROLE] Lead Backend Developer & System Architect`,
   },
